@@ -1,5 +1,5 @@
 ## Olá! Sou Nohan!
-  E atualmente estou estudando POO e JavaScrit.
+  E atualmente estou estudando POO e JavaScript.
 
 <div>
   <a href="htttps://github.com/NouanGust">

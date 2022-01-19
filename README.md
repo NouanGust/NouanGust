@@ -1,4 +1,5 @@
-## Olá! Sou Nohan 
+## Olá! Sou Nohan!
+  E atualmente estou estudando POO e JavaScrit.
 
 <div>
   <a href="htttps://github.com/NouanGust">

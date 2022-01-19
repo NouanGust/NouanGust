@@ -1,5 +1,5 @@
-## Olá! Sou Nohan!
-  E atualmente estou estudando POO e JavaScript.
+## Olá! Me chamo Nohan!
+  E sou estudante de Análise e desenvolvimento de sistemas, além de atualmente estar estudando POO e me aprofundando em JavaScript.
 
 <div>
   <a href="htttps://github.com/NouanGust">

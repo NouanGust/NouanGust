@@ -1,6 +1,6 @@
-## Olá! Me chamo Nohan!
-  E sou estudante de Análise e desenvolvimento de sistemas, além de atualmente estar estudando POO e me aprofundando em JavaScript.
-
+## Olá, Mundo! Me chamo Nohan! :vulcan_salute:
+Sou apaixonado por qualquer coisa realcionada a tecnologia, jogos, cultura nerd e pop, música e culinaria :D
+  
 <div>
   <a href="htttps://github.com/NouanGust">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NouanGust&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>

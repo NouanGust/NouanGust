@@ -1,23 +1,8 @@
 # Olá, Mundo! Me chamo Nohan! :vulcan_salute:
 Sou apaixonado por qualquer coisa realcionada a tecnologia, jogos, cultura nerd e pop, música e culinaria :D
   
-  
-  
-## Tecnologias que estou apto a trabalhar
-<p>
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</p>
-
-
-## Tecnologias que estou aprendendo
-
-<p>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</p>
+    
+Desenvolvedor FullStack principalmente usando Python e Django e desenvolvedor de jogos.
   
 ## Caso queira entar em contato
 

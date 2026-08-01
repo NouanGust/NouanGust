@@ -67,3 +67,5 @@ Sou um **Analista de Sistemas** e pós-graduando em **Desenvolvimento de jogos D
           
 </div>
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NouanGust&size_weight=0.5&count_weight=0.5)

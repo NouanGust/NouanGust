@@ -32,7 +32,7 @@
 Sou um **Analista de Sistemas** e pós-graduando em **Desenvolvimento de jogos Digitais**. Minha paixão é unir a lógica da programação com a criatividade da escrita e do design de jogos.
 
 * **Trabalhando atualmente em:**
-    * GameCreators - Como instrutor de programação e desenvolvimento de jogos.
+    * Senai - Como instrutor de Desenvolvimento de Jogos.
     * Sistema de Gestão Escolar (Python/Flet)
     * Um jogo estilo *Auto Chess* inspirado no Folclore Brasileiro (Godot/GdScript)
 * **Publicações:** Autor do livro *"Foto Polaroide"* (e escrevendo contos novos!).

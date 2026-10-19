@@ -2,7 +2,7 @@
   <h1>Olá, Mundo! Me chamo Nohan! 🖖</h1>
 
   <h3>
-    👨‍💻 Desenvolvedor Full Stack | 🎮 Game Developer | ✍️ Escritor
+    🎮 Game Developer | ✍️ Escritor
   </h3>
 
   <p>

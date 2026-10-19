@@ -33,8 +33,8 @@ Sou um **Analista de Sistemas** e pós-graduando em **Desenvolvimento de jogos D
 
 * **Trabalhando atualmente em:**
     * Senai - Como instrutor de Desenvolvimento de Jogos.
-    * Sistema de Gestão Escolar (Python/Flet)
     * Um jogo estilo *Auto Chess* inspirado no Folclore Brasileiro (Godot/GdScript)
+    * Um jogo de RPG de turnos.
 * **Publicações:** Autor do livro *"Foto Polaroide"* (e escrevendo contos novos!).
 * **Hobbies:** Guitarra, Culinária e Cultura Pop.
 

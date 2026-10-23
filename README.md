@@ -34,6 +34,10 @@ Sou um **Analista de Sistemas** e pós-graduando em **Desenvolvimento de jogos D
 * **Trabalhando atualmente em:**
     * Senai - Como instrutor de Desenvolvimento de Jogos.
     * Um jogo estilo *Auto Chess* inspirado no Folclore Brasileiro (Godot/GdScript)
+    * <a href="https://petalas-sangrentas.itch.io/autochess">
+        <img width="30" height="40" alt="icone" src="https://github.com/user-attachments/assets/d38a45bd-ec1c-4c67-82bc-8453ba619e92" />
+" alt="Folchess"/>
+      </a>
     * Um jogo de RPG de turnos.
 * **Publicações:** Autor do livro *"Foto Polaroide"* (e escrevendo contos novos!).
 * **Hobbies:** Guitarra, Culinária e Cultura Pop.
